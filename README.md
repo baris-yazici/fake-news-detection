@@ -1,4 +1,4 @@
-# ST311 Final Project: Fake News Detection Using (Large) Language Models
+# Fake News Detection Using (Large) Language Models
 
 - This repository contains code and report for the final project of ST 311 - Artificial Intelligence at London School of Economics by Baris Yazici and Vishal Kumar.
 
